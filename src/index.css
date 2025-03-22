@@ -106,8 +106,14 @@ section.hero {
     text-align: center;
   }
   section.hero .img-fluid {
+    margin-top: 1.3rem;
     width: 70%;
   }
+}
+
+section.hero .img-fluid{
+  border-radius: 100%;
+  background: #becbd6;
 }
 
 .hero p{
@@ -163,6 +169,10 @@ section.projects .card img {
 }
 .progress {
   width: 100%;
+}
+
+section.projects h2{
+  text-align: center;
 }
 /* TESTIMONIALS */
 

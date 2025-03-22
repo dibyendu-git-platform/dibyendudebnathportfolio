@@ -16,7 +16,7 @@ const NavBar = () => {
         },
         {
             name: "Projects",
-            href: "#hero"
+            href: "#projects"
         },
         {
             name: "Certifications & Achievements",
@@ -42,7 +42,7 @@ const NavBar = () => {
                         </li>)
                     )}
                 </ul>
-                <a className="btn btn-outline-dark d-none d-lg-block" href="#">Let's Talk</a>
+                <a className="btn btn-outline-dark d-none d-lg-block" href="#contact">Let's Talk</a>
             </div>
         </div>
     </nav>

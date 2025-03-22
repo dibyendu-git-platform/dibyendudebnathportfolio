@@ -14,7 +14,7 @@ const HeroSection = () => {
                     <button className="btn btn-outline-dark btn-lg">Projects</button>
                 </div>
                 <div className="col-sm-6 text-center">
-                    <img src="../../newimg.png" className="img-fluid" alt="img" />
+                    <img src="../../heroImage.png" className="img-fluid" alt="img" />
                 </div>
             </div>
         </div>

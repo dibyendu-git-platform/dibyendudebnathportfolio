@@ -11,7 +11,7 @@ const HeroSection = () => {
                         React.js, Outsystems, and Node.js. Proficient in both front-end and back-end development, with a strong focus
                         on enhancing user experience and optimizing code performance.
                     </p>
-                    <button className="btn btn-outline-dark btn-lg">Projects</button>
+                    <a href="#projects"><button className="btn btn-outline-dark btn-lg" >Projects</button></a>
                 </div>
                 <div className="col-sm-6 text-center">
                     <img src="../../heroImage.png" className="img-fluid" alt="img" />

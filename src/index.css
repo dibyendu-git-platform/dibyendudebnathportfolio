@@ -157,14 +157,19 @@ section.about img{
   width: 85px;
 }
 
+section.about h6{
+  font-size: 1.2rem;
+}
+
 /* PROJECTS */
 
 section.projects .card {
-  max-width: 17rem;
+  max-width: 23rem;
   text-align: left;
 }
 section.projects .card img {
-  max-width: 70%;
+  margin-top: 10px;
+  max-width: 100%;
   margin: 0 auto;
 }
 .progress {
@@ -173,6 +178,10 @@ section.projects .card img {
 
 section.projects h2{
   text-align: center;
+}
+
+.projects p{
+  font-size: 1.2rem;
 }
 /* TESTIMONIALS */
 
@@ -197,8 +206,14 @@ section.testimonials .carousel.carousel-fade .carousel-item {
 }
 
 /* CONTACT */
-
+section.contact {
+  text-align: center;
+}
 section.contact .social-media a {
   padding: 0 0.5rem;
   font-size: 1.3rem;
+}
+
+section.contact a,i{
+  font-size: 1.6rem;
 }

@@ -1,7 +1,7 @@
 
 const CertificateCard = ({title ='', tag = '', body = '', imgPath = '/', link='/'}) => {
   return (
-    <div className="card w-50">
+    <div className="card">
         <img src={imgPath} alt="" className="" />
         <div className="card-body">
             <h5 className="card-title fw-bold h3">{title}</h5>

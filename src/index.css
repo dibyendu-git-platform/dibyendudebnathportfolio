@@ -184,6 +184,10 @@ section.projects h2{
   font-size: 1.2rem;
 }
 /* TESTIMONIALS */
+
+section.testimonials .card{
+  width: 50%;
+}
 .carousel-control-next, .carousel-control-prev {
   display: none;
 }
@@ -231,6 +235,12 @@ section.testimonials .card p{
 
 section.testimonials .card i{
   font-size: 0.7rem;
+}
+
+@media screen and (max-width: 576px) {
+  section.testimonials .card{
+    width: 95%;
+  }
 }
 
 /* CONTACT */

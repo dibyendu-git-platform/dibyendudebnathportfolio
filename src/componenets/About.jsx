@@ -49,7 +49,7 @@ const About = () => {
   return (
     <section className="about teko-font" id="skills">
         <div className="container">
-            <h2 className="display-5 fw-bold mb-4">Skills</h2>
+            <h2 className="display-5 fw-bold mb-4 text-center">Skills</h2>
             <div className="row">
                 <div className="col-lg-6 col-sm-12 mt-4">
                     <ul>

@@ -4,7 +4,7 @@ const ExpereinceSection = () => {
   return (
     <section className="services teko-font" id="experience">
         <div className="container">
-            <h2 className="display-5 fw-bold mb-4">Experiences</h2>
+            <h2 className="display-5 fw-bold mb-4 text-center">Experiences</h2>
             <div className="row">
                 <div className="col-lg-12 col-sm-12 mt-4">
                     <div className="card">

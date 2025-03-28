@@ -20,7 +20,7 @@ const NavBar = () => {
         },
         {
             name: "Certifications & Achievements",
-            href: "#hero"
+            href: "#testimonials"
         },
         {
             name: "Educations",

@@ -16,15 +16,15 @@ const Projects = () => {
             title: "Blog App",
             description: `Build a personal blog app where user can create,update and delete own posts and view other posts`,
             toolsUsed: 'React JS, Node JS, MongoDB, Firebase authentication, Tailwind CSS, JWT',
-            link: '/#',
-            imgPath: '../../bookStore-cover.png'
+            link: 'https://github.com/dibyendu-git-platform/blog-app',
+            imgPath: '../../blog-app.jpg'
         },
         {
             id: 3,
             title: "Portfolio Website",
             description: `Portfolio website, built with HTML, CSS, Bootstrap, and React, features a responsive design, dynamic React components and showcases my projects, skills, and contact details. 🚀`,
             toolsUsed: 'HTML, CSS, Bootstrap, React',
-            link: '/#',
+            link: 'https://github.com/dibyendu-git-platform/dibyendudebnathportfolio/',
             imgPath: '../../Portfolio.png'
         }
     ]

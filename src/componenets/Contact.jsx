@@ -11,7 +11,7 @@ const Contact = () => {
                 </div>
                 <div className="col-sm-4 mt-4">
                     <div className="social-media">
-                        <a href="#"><i className="bi bi-twitter"></i></a>
+                        <a href="#"><i class="bi bi-github"></i></a>
                         <a href="#"><i className="bi bi-instagram"></i></a>
                         <a href="#"><i className="bi bi-facebook"></i></a>
                     </div>

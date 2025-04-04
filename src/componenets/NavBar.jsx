@@ -24,7 +24,7 @@ const NavBar = () => {
         },
         {
             name: "Educations",
-            href: "#hero"
+            href: "#educations"
         },
     ]
   return (

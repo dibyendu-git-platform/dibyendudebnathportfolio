@@ -7,6 +7,7 @@ import Projects from './componenets/Projects';
 import Footer from './componenets/Footer';
 import Contact from './componenets/Contact'
 import Certifications from './componenets/Certifications'
+import Education from './componenets/Education';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <About />
       <Projects />
       <Certifications />
+      <Education />
       <Contact />
       <Footer />
     </>

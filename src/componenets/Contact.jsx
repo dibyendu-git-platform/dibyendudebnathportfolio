@@ -13,7 +13,7 @@ const Contact = () => {
                     <div className="social-media">
                         <a href="https://github.com/dibyendu-git-platform"><i className="bi bi-github"></i></a>
                         <a href="https://www.linkedin.com/in/dibyendu-debnath-57814a326"><i className="bi bi-linkedin"></i></a>
-                        <a href="https://www.facebook.com/share/18ZbsA6gQz"/><i className="bi bi-facebook"></i></a>
+                        <a href="https://www.facebook.com/share/18ZbsA6gQz/"><i className="bi bi-facebook"></i></a>
                     </div>
                 </div>
                 <div className="col-sm-4 mt-4">

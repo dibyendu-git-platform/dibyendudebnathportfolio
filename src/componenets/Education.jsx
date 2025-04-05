@@ -28,13 +28,13 @@ function Education() {
   return (
     <section className="eductaion teko-font" id="educations">
         <div className="container">
-            <div class="row">
-                <div class="col-md-12">
+            <div className="row">
+                <div className="col-md-12">
                 <h2 className="display-5 fw-bold mb-4">Educations</h2>
                     <div id="content">
-                        <ul class="timeline">
+                        <ul className="timeline">
                             {educations.map((education) => (
-                                <li key={education.id} class="event" data-date={education.year}>
+                                <li key={education.id} className="event" data-date={education.year}>
                                     <h3>{education.title}</h3>
                                     <p><b>Institution:</b> {education.institution}</p>
                                     <p><b>Coursework:</b> {education.description}</p>

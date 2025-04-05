@@ -160,6 +160,10 @@ section.about h6{
   font-size: 1.2rem;
 }
 
+.progress, .progress-stacked {
+  --bs-progress-height: 0.6rem;
+  --bs-progress-font-size: 0.75rem;
+}
 /* PROJECTS */
 
 section.projects .card {
@@ -213,6 +217,11 @@ section.testimonials .card{
 
 .carousel-indicators .active {
   background-color: #09223a;
+}
+
+.testimonials .card{
+  border: 1px solid #3f3e3e;
+  box-shadow: none;
 }
 
 section.testimonials .card img{
